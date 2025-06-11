@@ -76,7 +76,7 @@ Implementasi model machine learning bertujuan untuk mengidentifikasi beberapa ka
    - Train Accuracy (akhir epoch): 99.60%
    2. **Visualisasi akurasi dan loss**
    
-   ![Visualisasi Akurasi dan Loss](Notebook/visualisasi_akurasiloss.png)
+   ![Visualisasi Akurasi dan Loss](Media/visualisasi_akurasiloss.png)
 
    - Model menunjukkan konvergensi yang stabil, tanpa overfitting yang signifikan.
    - Performa validasi dan training sangat baik, menandakan model generalisasi yang kuat.
